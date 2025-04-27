@@ -1,7 +1,7 @@
 # Echo: Music Player
 
 <p>
-An Extension-based Music Player for Android, designed with a clean and intuitive UI.
+An Extension based Music Player for Android, designed with a clean and intuitive UI.
 </p>
 <p>
   <a href="https://github.com/brahmkshatriya/echo/releases"><img src="https://img.shields.io/github/v/release/brahmkshatriya/echo?label=Downloads&style=for-the-badge" alt="GitHub Downloads"></a>
